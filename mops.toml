@@ -1,0 +1,7 @@
+[package]
+name = "mopsPackage"
+version = "1.0.0"
+description = "test package for the tutorial"
+repository = "https://github.com/sam-thetutor/mopsPackage"
+keywords = [ "testing" ]
+license = "MIT"
