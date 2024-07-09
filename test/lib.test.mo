@@ -1,4 +1,4 @@
-import Code "../src/backend/main";
+import Code "../src/main";
 
 
 let code = Code.Code();
