@@ -1,7 +1,10 @@
 [package]
-name = "mopsPackage"
+name = "testpack"
 version = "1.0.0"
-description = "test package for the tutorial"
-repository = "https://github.com/sam-thetutor/mopsPackage"
+description = "just testing"
+repository = "https://github.com/sam-thetutor/mopspackage"
 keywords = [ "testing" ]
 license = "MIT"
+
+[dependencies]
+base = "0.10.1"

@@ -1,4 +1,6 @@
-import {add} "../src";
+import Code "../src/backend/main";
 
-assert add(1, 2) == 3;
-assert add(3, 22) == 25;
+
+let code = Code.Code();
+
+assert code.add(1, 2) == 3;
